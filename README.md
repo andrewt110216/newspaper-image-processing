@@ -19,3 +19,5 @@ so I included the solution as a Python file with a requirements.txt.
 Unfortunately, the image files are too large to upload to Github.
 The program results on the provided images can be viewed in the HTML file of
 the Jupyter Notebooks solution.
+
+https://andrewt110216.github.io/newspaper-image-processing/project_jupyter_html.html

@@ -11,3 +11,7 @@ and opencv for facial recognition.
 University of Michigan
 Python Project: pillow, tesseract, and opencv
 Final Project Solution
+
+The project was completed using Jupyter Notebooks.
+I have included the Jupyter Notebook file, but I worked on the project locally
+so I included the solution as a Python file with a requirements.txt.
